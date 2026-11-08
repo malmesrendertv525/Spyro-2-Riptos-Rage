@@ -198,3 +198,6 @@ This repository serves as the official landing page for Spyro 2: Riptos Rage. Th
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Spyro 2: Riptos Rage today!**
+
+---
+**Last updated:** 2026-11-08 12:17:57 UTC
