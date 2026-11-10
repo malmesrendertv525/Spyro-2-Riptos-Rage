@@ -200,4 +200,4 @@ This repository serves as the official landing page for Spyro 2: Riptos Rage. Th
 **Get the most recent version of Spyro 2: Riptos Rage today!**
 
 ---
-**Last updated:** 2026-11-09 21:09:34 UTC
+**Last updated:** 2026-11-10 03:51:36 UTC
